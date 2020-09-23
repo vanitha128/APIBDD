@@ -1,2 +1,2 @@
 # APIBDD
-API automation using cucumber, RestAssured and Junit
+API automation using Java, Cucumber, RestAssured and Junit
